@@ -9,7 +9,7 @@ Spend most part on my IT career supporting VERITAS Software in Professional Serv
 Take up new challenges by joining HP as Product Presales as Datacenter Automation with HP’s Business Service Automation Solution Suites.
 Opportunity comes up when Cisco venturing into Cloud.Take up the role of Presales Consulting System Engineer for Cisco’s Opsware and Cloupia Products.
 
-## my Home Page
+## my Home Pages
     
 	http://www.kuenn.co
     https://kuennco.wordpress.com
