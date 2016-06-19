@@ -10,12 +10,10 @@ Take up new challenges by joining HP as Product Presales as Datacenter Automatio
 Opportunity comes up when Cisco venturing into Cloud.Take up the role of Presales Consulting System Engineer for Cisco’s Opsware and Cloupia Products.
 
 ## my home page
-    
-	http://www.kuenn.co
+http://www.kuenn.co
 	
 ## my wordpress.com page
-
-    https://kuennco.wordpress.com
+https://kuennco.wordpress.com
 	
 	
 	
