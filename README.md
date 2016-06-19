@@ -15,5 +15,6 @@ Opportunity comes up when Cisco venturing into Cloud.Take up the role of Presale
 	
 ## my Wordpress Pages
 
-    http://kuennco.wordpress.com
+    https://kuennco.wordpress.com
+	
 	
